@@ -1,0 +1,8 @@
+{
+    "contributors": "Authors: James Sarasin", 
+    "uuid": "pastebin@dirk103",
+    "name": "CodePaste",
+    "description": "Paste code directly to pastebin.com from your desktop.",
+    "max-instances": "-1"
+}
+
