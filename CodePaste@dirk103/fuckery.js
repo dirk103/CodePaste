@@ -40,6 +40,8 @@ CodePaste.prototype = {
 
 		this.set_applet_icon_name("Code Paste");
 		this.set_applet_tooltip(_("Share code with others"));
+		
+		global.logError("fuckery");
         this._appletMenu = this._createMenu(orientation);
 	},
 

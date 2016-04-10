@@ -1,9 +1,8 @@
 {
-	"website": "https://github.com/dirk103/CodePaste", 
+    "uuid": "CodePaste@dirk103", 
+    "description": "Click on the applet to launch xkill and force any window to quit immediately", 
+    "tooltip": "Click here to kill a window", 
+    "name": "CodePaste", 
     "contributors": "Authors: James Sarasin", 
-    "uuid": "pastebin@dirk103",
-    "name": "CodePaste",
-    "description": "Paste code directly to pastebin.com from your desktop.",
-    "max-instances": "-1"
+    "website": "https://github.com/dirk103/CodePaste"
 }
-
